@@ -8,4 +8,4 @@ React, React Query, Material UI
 
 ## Demo
 
-https://movie-search-c3955.web.app/
+https://movie-search-c3955.web.app
